@@ -134,3 +134,4 @@ C:\Users\Administrator\source\repos\TacoLab\TacoLab\obj\Debug\net8.0\refint\Taco
 C:\Users\Administrator\source\repos\TacoLab\TacoLab\obj\Debug\net8.0\TacoLab.pdb
 C:\Users\Administrator\source\repos\TacoLab\TacoLab\obj\Debug\net8.0\TacoLab.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\TacoLab\TacoLab\obj\Debug\net8.0\ref\TacoLab.dll
+C:\Users\Administrator\source\repos\TacoLab\TacoLab\obj\Debug\net8.0\TacoLab.sourcelink.json

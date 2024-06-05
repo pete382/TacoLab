@@ -64,7 +64,7 @@ namespace TacoLab.Controllers
 
         public IActionResult PutDrinks([FromBody] Drink targetDrink, int id)
         {
-            if (id == targetDrink.Id) { return NoContent(); }
+            if (id != targetDrink.Id) { return NoContent(); }
             if (!dbContextD.Drinks.Any(d => d.Id == id)) { return NotFound(); }
 
             dbContextD.Drinks.Update(targetDrink);
