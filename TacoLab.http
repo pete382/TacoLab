@@ -1,0 +1,6 @@
+@TacoLab_HostAddress = http://localhost:5120
+
+GET {{TacoLab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

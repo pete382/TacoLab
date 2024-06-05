@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\TacoLab\\TacoLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D390B2CB-55FF-4FE1-B12B-082192E92595}|TacoLab.csproj|c:\\users\\administrator\\source\\repos\\tacolab\\tacolab\\controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D390B2CB-55FF-4FE1-B12B-082192E92595}|TacoLab.csproj|solutionrelative:controllers\\drinkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D390B2CB-55FF-4FE1-B12B-082192E92595}|TacoLab.csproj|c:\\users\\administrator\\source\\repos\\tacolab\\tacolab\\controllers\\tacoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D390B2CB-55FF-4FE1-B12B-082192E92595}|TacoLab.csproj|solutionrelative:controllers\\tacoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrinksController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\TacoLab\\TacoLab\\Controllers\\DrinksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DrinksController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\TacoLab\\TacoLab\\Controllers\\DrinksController.cs",
+              "RelativeToolTip": "Controllers\\DrinksController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T19:43:29.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TacosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\TacoLab\\TacoLab\\Controllers\\TacosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TacosController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\TacoLab\\TacoLab\\Controllers\\TacosController.cs",
+              "RelativeToolTip": "Controllers\\TacosController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:12:29.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
